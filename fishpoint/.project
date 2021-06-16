@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>fishpoint</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/img/autumn.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/autumn.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/bang.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/bang.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/bangaf.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/bangaf.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/bangf.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/bangf.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/black.png</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/black.png</location>
+		</link>
+		<link>
+			<name>WebContent/img/bom.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/bom.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/bomf.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/bomf.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/bori.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/bori.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/borit.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/borit.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/chamdomf.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/chamdomf.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/doda.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/doda.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/dodafood.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/dodafood.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/dom.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/dom.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/domesticmap.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/domesticmap.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/domesticmap2.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/domesticmap2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/domesticmap3.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/domesticmap3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/dozzi.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/dozzi.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/dozzif.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/dozzif.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/fishg.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/fishg.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/fishg1.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/fishg1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/fishg2.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/fishg2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/gang2.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/gang2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/gizzard.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/gizzard.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/gizzardf.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/gizzardf.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/mang.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/mang.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/mangf.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/mangf.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/mypage.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/mypage.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/newbie.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/newbie.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/nong.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/nong.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/nongf.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/nongf.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/nora.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/nora.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/noraf.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/noraf.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/reviewimg.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/reviewimg.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/spring.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/spring.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/springpnt.png</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/springpnt.png</location>
+		</link>
+		<link>
+			<name>WebContent/img/summer.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/summer.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/sung.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/sung.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/sungf.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/sungf.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/img/winter.jpg</name>
+			<type>1</type>
+			<location>C:/Users/thsrl/Downloads/05 project/img/winter.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/sql/fishboarder.sql</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/MYSQL%EC%84%A4%EC%B9%98/fishboarder.sql</locationURI>
+		</link>
+		<link>
+			<name>WebContent/sql/fishmember.sql</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/MYSQL%EC%84%A4%EC%B9%98/fishmember.sql</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

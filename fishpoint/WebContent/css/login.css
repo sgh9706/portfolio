@@ -1,0 +1,76 @@
+/*로그인 페이지*/
+
+.login-input-section-wrap{
+	padding-top: 250px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.login-input-wrap{
+	width: 465px;
+	height :35px;
+	border: solid 1px ;
+	background: white;
+}
+.password-wrap{
+	margin-top: 13px;
+}
+.login-input-wrap input{
+	border: none;
+	width:430px;
+	margin-top: 3px;
+	font-size: 14px;
+	margin-left: 10px;
+    height:30px;
+    color:black;
+}
+.login-submit-wrap {
+    padding-top: 13px;
+    
+}
+.login-submit-wrap input{
+	width: 465px; 
+	height :35px;
+	font-size: 18px;
+	background: black;
+	color: white;
+    border: solid 1px ;
+    cursor: pointer;
+}
+.login-stay-sign-in{
+	width: 465px;
+	height: 52px;
+	
+	display: flex;
+	font-size: 15px;
+	color: #4e4e4e;
+	align-items: center;
+	justify-content: flex-start;
+}
+
+.idcheck{
+	width: 80px; height: 33px;
+    margin-top: 10px;
+    border: 0;
+	vertical-align: top;
+	background: black;
+	color: white;
+	font-weight: bold;
+    border-radius: 1px;
+    cursor: pointer;
+   
+}
+
+.newbie{
+	width: 80px; height: 33px;
+    margin-top: 10px;
+    border: 0;
+	vertical-align: top;
+	background: black;
+	color: white;
+	font-weight: bold;
+    border-radius: 1px;
+    cursor: pointer;
+   
+}
